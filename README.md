@@ -1,6 +1,7 @@
 # Security-Risk-Assessment-Report
 This is a security risk assessment report assignment completed as part of the Google Cybersecurity Certificate.
 
+## Table of Contents
 * [Author](#Author)
 * [Techologies](#Technologies)
 * [Explaination](#Explaination)
